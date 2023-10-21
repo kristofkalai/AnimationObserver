@@ -1,6 +1,6 @@
 //
 //  View+Extensions.swift
-//  
+//
 //
 //  Created by Kristóf Kálai on 2023. 06. 03..
 //
